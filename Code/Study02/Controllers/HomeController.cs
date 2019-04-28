@@ -30,5 +30,11 @@ namespace Study02.Controllers
             return View();
         }
 
+        //来自分支1的控制器方法4444
+        public ActionResult Index4()
+        {
+
+            return View();
+        }
     }
 }
