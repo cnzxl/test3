@@ -36,5 +36,13 @@ namespace Study02.Controllers
 
             return View();
         }
+
+        //来自WEBF分支的控制器方法2019429
+        public ActionResult Index5()
+        {
+
+            return View();
+        }
+
     }
 }
